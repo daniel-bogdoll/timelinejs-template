@@ -1,4 +1,26 @@
 Year,Month,Day,Time,End Year,End Month,End Day,End Time,Display Date,Headline,Text,Media,Media Credit,Media Caption,Media Thumbnail,Type,Group,Background
-,,,,,,,,,Google Spreadsheet Example,"This is a test of using google spreadsheets as a source for the timeline tool. This is a 'title' slide, so it doesn't need a date. It automatically occurs first, and doesn't appear in the timeline below.",http://www.flickr.com/photos/zachwise/6115056146/in/photostream,Zach Wise/verite.co,"<a href=""http://www.flickr.com/photos/zachwise/6115056146/"" title=""Chicago by zach.wise, on Flickr"">Chicago by zach.wise</a>",,title,,
-2011,11,1,,2011,12,15,,,Another Flickr Example,It's Easy to Make Your Own Timeline,http://www.flickr.com/photos/zachwise/6894476777/in/photostream,Zach Wise/verite.co,Chicago to NYC,,,,#333333
-2011,11,16,05:58:44,2011,11,16,07:30:00,,Vimeo Example,"Illustrate your Timeline with photos, videos, tweets and more.",https://vimeo.com/143407878,Knight Lab,A video about how to make timelines!,,,,http://knightlab.northwestern.edu/wp-content/uploads/2015/03/front-page-image.jpg
+,,,,,,,,,The life of Daniel Bogdoll,"This is a test of using google spreadsheets as a source for the timeline tool. This is a 'title' slide, so it doesn't need a date. It automatically occurs first, and doesn't appear in the timeline below.",http://www.flickr.com/photos/zachwise/6115056146/in/photostream,Zach Wise/verite.co,"<a href=""http://www.flickr.com/photos/zachwise/6115056146/"" title=""Chicago by zach.wise, on Flickr"">Chicago by zach.wise</a>",,title,,
+1991,11,8,,,,,,,I was born,"I was born on 08 November 1991 in Velbert, Germany",https://www.helios-gesundheit.de/fileadmin/_processed_/0/a/csm_Cruse_e3b2cce5ea.jpg,https://www.helios-gesundheit.de/,Hospital in Velbert,,,,#333333
+2002,,,,2011,,,,,GSG,"Illustrate your Timeline with photos, videos, tweets and more.",https://vimeo.com/143407878,Knight Lab,A video about how to make timelines!,,,,http://knightlab.northwestern.edu/wp-content/uploads/2015/03/front-page-image.jpg
+2007,,,,2017,,,,,DLRG + Schwimm-AG,,,,,,,,
+2009,,,,,,,,,Soft & Hard,,,,,,,,
+2010,6,,,,,,,,Ford-Werke,,,,,,,,
+2010,,,,,,,,,Stadtwerke Velbert,,,,,,,,
+2010,,,,2016,,,,,danielbogdoll,,,,,,,,
+2011,7,,,2011,8,,,,GETRAG,,,,,,,,
+2011,,,,2019,,,,,RWTH,,,,,,,,
+2012,11,,,2015,9,,,,IFAS,,,,,,,,
+2013,,,,,,,,,Allround-PC,,,,,,,,
+2014,10,,,2015,1,,,,Projektarbeit,,,,,,,,
+2015,10,,,2016,3,,,,Bosch Engineering,,,,,,,,
+2016,2,,,2019,3,,,,EhrenÃ¤mter RWTH,,,,,,,,
+2016,4,,,2017,1,,,,Bachelorarbeit + IKA,,,,,,,,
+2016,,,,,,,,,students@bosch,,,,,,,,
+2016,10,,,2017,3,,,,EcurieAix,,,,,,,,
+2017,4,,,2017,9,,,,Silicon Valley,,,,,,,,
+2017,,,,,,,,,e-fellows,,,,,,,,
+2017,11,,,2019,3,,,,National Instruments,,,,,,,,
+2017,,,,,,,,,Ford Blue Oval,,,,,,,,
+2018,2,,,,,,,,SAYM,,,,,,,,
+2018,12,,,,,,,,IHK mobility manager,,,,,,,,
+2020,11,15,,,,,,,"KIT, FZI",,,,,,,,
