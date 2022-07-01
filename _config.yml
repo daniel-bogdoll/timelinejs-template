@@ -9,13 +9,14 @@
 #######
 # SITE SETTINGS
 #
-title: danielbogdoll
+title: Daniel Bogdoll
 description: "The Professional Life of Daniel Bogdoll"
 year: 2022
 author: Daniel Bogdoll 
 # add search box to navbar, true/false
 search: true
-font: ubuntu
+timeline-options: 
+  font: ubuntu
 
 #######
 # SITE URLs
@@ -52,7 +53,7 @@ defaults:
   - scope:
       path: "pages"
     values:
-      layout: page
+      layout: page-full-width
       permalink: /:basename:output_ext
 
 # ignore stuff
