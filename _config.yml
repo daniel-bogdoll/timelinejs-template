@@ -15,8 +15,6 @@ year: 2022
 author: Daniel Bogdoll 
 # add search box to navbar, true/false
 search: true
-timeline-options: 
-  font: ubuntu
 
 #######
 # SITE URLs
@@ -53,7 +51,7 @@ defaults:
   - scope:
       path: "pages"
     values:
-      layout: page-full-width
+      layout: page
       permalink: /:basename:output_ext
 
 # ignore stuff
