@@ -9,12 +9,13 @@
 #######
 # SITE SETTINGS
 #
-title: timelinejs-template
-description: "basic template for self-hosted TimelineJS"
-year: 2020
-author: evan will 
+title: danielbogdoll
+description: "The Professional Life of Daniel Bogdoll"
+year: 2022
+author: Daniel Bogdoll 
 # add search box to navbar, true/false
-search: false
+search: true
+font: ubuntu
 
 #######
 # SITE URLs
